@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0
+}
+.imagenHamburguesa {
+    width: auto;
+    margin: 20px;
+}
+.imagenPizza {
+    width: 650px;
+    margin: 20px;
+}
+.imagenEmpanada {
+    width: 700px;
+    margin: 20px;
+}
